@@ -41,4 +41,4 @@ The project covers:
 ---
 
 ## 👨‍💻 Author
-Gaurav Katre
+Rohit Tayde
